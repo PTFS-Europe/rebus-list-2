@@ -1,9 +1,10 @@
 # rebus:list 2.0
 This repository is here to aid in tracking issue for the rebus:list 2.0+ product from PTFS-Europe. Please click [here](../../issues) to go straight to the issues pages, or if you prefer to submit issues via email then pop us a mail at rebus-issues@ptfs-europe.com.
 
-## Guidelines for submitting an issue
-* Please search first.
-* To aid the developers in responding to your issue as quickly as possible please include the following data in your issue report.
+## Rules for submitting issues
+* Please search first
+* Please only submit one topic per issue
+* Please include the following details in your issue
 
 ### Title
 Please make the title of your issue informative but concise.
